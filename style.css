@@ -30,3 +30,36 @@ div {
   align-item: center;
   justify-content: space-between;
 }
+
+.logo a {
+  font-size: 35px;
+  font-weight: 600;
+  color: #e9d5b0;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+li a {
+  color: #e9d5b0;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 25px;
+
+}
+
+button {
+  background-color: #050801;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding 10px;
+  width: 90px;
+}
+
+button a {
+  color: #e9d5b0;
+  font-weight: bold;
+  font-size: 15px;
+}
