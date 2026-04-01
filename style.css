@@ -13,3 +13,20 @@ div {
 .container div {
   background-color: #e9d5b0;
 }
+
+* {
+  text-decoration: none;
+}
+
+.navbar {
+  background: #3e6195;
+  font-family: calibri;
+  padding-right: 15PX;
+  padding-left: 15px;
+}
+
+.navdiv {
+  display: flex;
+  align-item: center;
+  justify-content: space-between;
+}
