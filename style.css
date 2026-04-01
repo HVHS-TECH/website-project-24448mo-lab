@@ -1,18 +1,5 @@
 .container {
   display: grid;
   grid-template-columns: auto auto auto;
-}
-
-body {
-  background-color: lightblue;
-}
-
-div {
-  border-style: solid;
-  margin: 10px;
-  text-align: center;
-}
-.container div {
-  background-color: rgb(30, 80, 99);
-}
+} 
 
