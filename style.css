@@ -63,3 +63,18 @@ button a {
   font-weight: bold;
   font-size: 15px;
 }
+
+.navbar li {
+  list-style: none;
+  display: inline-block; 
+  margin-right: 25px;    
+}
+
+
+ul li {
+  list-style: disc;      
+  display: list-item;
+  margin-bottom: 5px;
+  padding-left: 20px;   
+  text-align: left;      
+}
