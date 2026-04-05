@@ -43,7 +43,7 @@ li {
 }
 
 li a {
-  color: #e9d5b0;
+  color: lab(86.03% 1.26 20.82);
   font-size: 18px;
   font-weight: bold;
   margin-right: 25px;
